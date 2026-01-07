@@ -2,7 +2,6 @@
   
   **Chapter 2 Season 2 (12.41)**
   
-  [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/eclipsefn)
   [![Status](https://img.shields.io/badge/Status-Online-brightgreen)]()
   [![Version](https://img.shields.io/badge/Fortnite-C2S2-orange)]()
 
