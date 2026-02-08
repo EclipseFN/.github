@@ -27,7 +27,6 @@ To join the server and start a match, you need to download our launcher.
 - **[Heliato](https://github.com/Heliato)** (Owner) - GameServer & Backend Dev.
 - **[NoLxve](https://github.com/NolxveGW)** (Owner) - EclipseGameProj Manager.
 - **[Snoowz](https://github.com/snoowzgf)** (Admin) - Launcher Dev.
-- **[Jko](https://github.com/SupJko)** (Developer) - Launcher Dev.
 
 ---
 
